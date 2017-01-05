@@ -522,18 +522,17 @@
 	color: #1da4dd;
 }
 .punchtext a {
-	float: right;
-	color: #fff;
-	font-size: 16px;
-	padding: 16px 40px;
-	background-color: #1da4dd;
+	
+	color: #1da4dd;
+	font-size: 26px;
+	padding: 3px 80px;
+
 	border-radius: 5px;
 	-webkit-transition:all .3s ease-in-out;
 	transition:all .3s ease-in-out
 }
-.punchtext a:hover {
-	background-color: #454545;
-}
+
+
 
 
 /* contact section */
