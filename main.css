@@ -5,13 +5,6 @@
 	margin:0;
 }
 
-body{
-	font-family: "Ubuntu", sans-serif;
-	color:white;	
-	font-size: 300%;
-	letter-spacing:-2px;
-	background:#f8f8f8;
-}
 
 a{
 	text-decoration: none;
@@ -27,9 +20,13 @@ p{
 }
 
 .wrap{
+	font-family: "Ubuntu", sans-serif;
+	color:white;
+	font-size: 300%;
+	letter-spacing:-2px;
 	max-width: 750px;
 	height: 150px;
-	margin:100px auto;
+	margin:160px auto 0px auto;
 
 }
 
