@@ -1619,7 +1619,7 @@
 	-webkit-transition: color 0.3s;
 }
 .sky-form .button {
-	background-color: #1da4dd;
+	background-color: red;
 	transition: opacity 0.2s;
 	-o-transition: opacity 0.2s;
 	-ms-transition: opacity 0.2s;

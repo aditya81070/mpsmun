@@ -89,7 +89,7 @@ label{
 .logo h1 span {
    font-family: 'Nosifer', cursive;
    font-size: 2.5em;
-   color:#2AD2C9;
+   color:red;
 }
 .logo h1 span.two {
     font-size: 1.7em;
@@ -140,12 +140,12 @@ a i.dribble {
 }
 /*--header-top--*/
 .navbar-default {
-   background-color: #2ad2c9;
-    border-color: #2ad2c9;
+   background-color: red;
+    border-color: red;
 }
 .navbar-default .navbar-nav > li > a {
     color: #fff;
-        border: 2px solid #1EB5AD;
+        border: 2px solid red;
     font-size: 1em;
 	padding-top: 10px;
     padding-bottom: 10px;
@@ -193,7 +193,7 @@ ul.nav.navbar-nav li a.active {
   background: none !important;
 }
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
-	color: #2AD2C9;
+	color: red;
     text-decoration: none;
     border: 2px solid #fff;
 }
@@ -240,12 +240,12 @@ h2.tittle {
     font-weight: bold;
     font-size: 2.5em;
     line-height: 1.4em;
-    border-left: 8px solid #2ad2c9;
+    border-left: 8px solid red;
     padding-left: 14px;
     margin-bottom: 0.5em;
 }
 h2.tittle span {
-    color: #2ad2c9;
+    color: red;
 }
 /*-- w3layouts --*/
 /*-- agileits --*/
@@ -264,7 +264,7 @@ h2.tittle span {
     position: absolute;
        bottom: -89%;
     right: 0;
-    background-color: rgba(28, 167, 159, 0.54);
+    background-color: red;
     text-align: center;
     -o-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -311,7 +311,7 @@ h2.tittle span {
     -ms-box-shadow:0 10px 20px rgba(0, 0, 0, 0.41);    
 	width: 80%;
 	border:none;
-	    border-right: 6px solid #1BAFA7;
+	    border-right: 6px solid red;
 	
 }
 .test-review p img {
@@ -334,7 +334,7 @@ h2.tittle span {
   padding-top: 3em;
 }
 .col-bottom h4{
-  color: #2ad2c9;
+  color: red;
   text-transform: uppercase;
   font-size: 1.4em;
   font-weight:600;
@@ -375,7 +375,7 @@ a.hvr-shutter-in-horizontal:before {
   bottom: 0;
   left: 0;
   right: 0;
-  background:#2ad2c9;
+  background:red;
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
   -webkit-transform-origin: 50%;
@@ -448,7 +448,7 @@ a.hvr-shutter-in-horizontal:hover:before, a.hvr-shutter-in-horizontal:focus:befo
 }
 span.like {
     font-size: 0.9em;
-    color: #2ad2c9;
+    color: red;
     text-transform: capitalize;
 	margin: 10px 0;
 }
@@ -468,20 +468,20 @@ span.like {
     padding: 8px 1.1em;
     font-size: 0.9em;
     text-transform: uppercase;
-    color: #2ad2c9;
+    color: red;
     font-weight: 400;
     display: inline-block;
     margin-top: 1em;
     text-decoration: none;
-    border: 2px solid #2ad2c9
+    border: 2px solid red
 }
 .blog-pagenat ul li a:hover {
-  background:#2ad2c9;
+  background:red;
   color:#fff;
-  border:2px solid #2ad2c9;
+  border:2px solid red;
 }
 .blog-pagenat ul li a.last,a.frist {
-    background: #2ad2c9!important;
+    background: red!important;
     color: #fff!important;
 }
 .single-top img{
@@ -606,7 +606,7 @@ p.smith{
 }
 p.smith a{
   text-decoration: none;
-  color: #2ad2c9;
+  color: red;
   font-weight: 500;
   font-size: 1.2em;
 }
@@ -634,7 +634,7 @@ p.reply a{
 	color: #555;
 }
 p.reply a:hover{
-	color:#2ad2c9;
+	color:red;
 }
 p.reply i{
   background: url(../images/icons.png)no-repeat -174px -1px;
@@ -667,7 +667,7 @@ p.reply i:hover{
   text-transform: uppercase;
   padding: 0.8em;
   display: inline-block;
-  background:#2ad2c9;
+  background:red;
  margin: 0.5em 0 0 0;
   -webkit-appearance: none;
   width: 13%;
@@ -749,13 +749,13 @@ p.eget b {
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
 	color: #fff;
-	background-color:#2ad2c9;
+	background-color:red;
 	border: none;
 	border-radius: 0;
 }
 .nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
 	color: #fff;
-	background-color:#2ad2c9;
+	background-color:red;
 }
 .nav-tabs > li > a i {
 	font-size: 32px;
@@ -925,7 +925,7 @@ line-height:1.8em;
 }
 .bars {
     margin-bottom: 0.8em;
-    color: #2ad2c9;
+    color: red;
 }
 li.list-group-item1 {
   line-height: 2.5em;
@@ -961,7 +961,7 @@ ol {
 	    font-size: 0.9em;
 }
 .product-left ul li a:hover{
-	color: #2ad2c9;
+	color: red;
 }
 .prdt {
     margin-top: 6%;
@@ -976,7 +976,7 @@ ol {
 	    font-size: 0.9em;
 }
 .prdt-left h4 {
-       color:#2ad2c9;
+       color:red;
     font-size: 22px;
     margin: 17px 0 0 0;
 }
@@ -1043,7 +1043,7 @@ ol {
 }
 
 .de_testi_by,.de_testi_by a{
-	color: #2ad2c9;
+	color: red;
     font-size:0.9em;
     margin: 17px 0 0 0;
 }
@@ -1111,7 +1111,7 @@ ol {
     padding: 10px 30px;
 }
 .features-item h4 {
-    color: #2ad2c9;
+    color: red;
     text-transform: uppercase;
     font-size: 1.4em;
     font-weight: 600;
@@ -1274,7 +1274,7 @@ figure.effect-apollo p {
 	margin: 3em;
 	padding: 0 1em;
 	max-width: 150px;
-	border-right: 4px solid #1c88b5;
+	border-right: 4px solid red;
 	text-align: right;
 	opacity: 0;
 	-webkit-transition: opacity 0.35s;
@@ -1324,7 +1324,7 @@ figure.effect-apollo:hover p {
 }
 p#demo {
     font-size: 3em;
-   color: #2ad2c9;
+   color: red;
 }
 .time-bg h4 {
     font-size: 3em;
@@ -1333,7 +1333,7 @@ p#demo {
 	font-weight: 600;
 }
 .time-bg h4 span {
-        color: #2ad2c9;
+        color: red;
 }
 /*--//timer--*/
 /*--banner-inner--*/
@@ -1531,7 +1531,7 @@ p#demo {
        font-size: 28px;
     color: #fff;
     font-weight: 600;
-    border-left: 6px solid #2ad2c9;
+    border-left: 6px solid red;
     padding-left: 17px;
     line-height: 1.5em;
 }
@@ -1559,7 +1559,7 @@ p#demo {
     padding: 0;
 }
 .choose_left span {
-    color: #2ad2c9;
+    color: red;
     font-size: 35px;
     top: 8px;
 }
@@ -1572,7 +1572,7 @@ h3.tittle {
     font-weight: bold;
     font-size: 2.5em;
     line-height: 1.4em;
-    border-left: 8px solid #2ad2c9;
+    border-left: 8px solid red;
     padding-left: 14px;
     margin-bottom: 0.5em;
 }
@@ -1591,7 +1591,7 @@ h3.tittle.three {
 
 input:focus ~ label, textarea:focus ~ label, input:valid ~ label, textarea:valid ~ label {
 	 font-size:1em;
-	 color:#2ad2c9;
+	 color:red;
 	 top:-2em;
 	 -webkit-transition: all 0.125s ease;
 	 transition: all 0.125s ease;
@@ -1631,7 +1631,7 @@ input ~ span,
   display: block;
   width: 0;
   height:2px;
-  background:#2ad2c9;
+  background:red;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -1662,7 +1662,7 @@ form {
 }
 .send input[type="submit"] {
     border: none;
-    background:#2ad2c9;
+    background:red;
     cursor: pointer;
     border-radius: 0px;
     width: 140px;
@@ -1698,7 +1698,7 @@ form {
     list-style: none;
 }
 .con-top ul li a {
-  color: #2ad2c9;
+  color: red;
   text-decoration:none;
 }
 .con-top {
@@ -1714,7 +1714,7 @@ form {
 }
 .con-top h4 ,h4.info{
         font-size: 1.4em;
-    color: #2ad2c9;
+    color: red;
     font-weight: bold;
     font-family: 'Merriweather Sans', sans-serif;
     text-transform: uppercase;
@@ -1751,7 +1751,7 @@ ul.social-icons2 {
     font-size:1.6em;
     color: #fff;
     font-weight: 700;
-	border-left: 6px solid #2ad2c9;
+	border-left: 6px solid red;
     padding-left: 9px;
 	text-transform:uppercase;
 }
@@ -1777,7 +1777,7 @@ ul.social li a {
 	color:#C1BFBF;	
 }
 .amet-medium p a{
-	color:#2ad2c9;
+	color:red;
 	 text-decoration:none;
  }
 .amet-medium p a:hover{
@@ -1793,7 +1793,7 @@ p.footer-class {
 }
 .footer-class a{
 	    text-decoration: none;
-    color: #2ad2c9;
+    color: red;
 }
 .footer-class a:hover{
 	color:#fff;
@@ -1847,7 +1847,7 @@ ul.social li a{
       background: #fff;
 }
 .support input[type="submit"]{
-     background: #2ad2c9;
+     background: red;
     cursor: pointer;
     border: 0;
     color: #fff;
@@ -2781,7 +2781,7 @@ ul.social li a{
 	}
 	span.like {
 		font-size: 0.65em;
-		color: #2ad2c9;
+		color: red;
 		text-transform: capitalize;
 		margin: 3px 0;
 	}

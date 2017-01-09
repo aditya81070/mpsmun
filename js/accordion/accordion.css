@@ -5,7 +5,7 @@
 .no-js .acc-trigger:last-of-type { border-bottom: none; }
 .acc-trigger a { background: url(../../images/accordion-ico.png) no-repeat 14px 13px; display: block; padding: 11px 20px 11px 44px; text-decoration: none; text-shadow: none; font-family: 'Open Sans'; font-size: 14px; font-weight: 600; color: #727272; border: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3;}
 /*.acc-trigger a:hover { background-position: 14px -58px; }*/
-.acc-trigger a:hover, .acc-trigger.active a, .acc-trigger.active a:hover { color: #13afeb; border-bottom: 1px solid #fff; }
+.acc-trigger a:hover, .acc-trigger.active a, .acc-trigger.active a:hover { color: red; border-bottom: 1px solid #fff; }
 .acc-trigger.active a:hover { background-color: transparent; }
 .acc-trigger.active { cursor: default; background:#fff;}
 .acc-trigger.active:last-of-type { border-bottom: none; margin-bottom: 0; }

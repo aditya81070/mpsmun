@@ -163,7 +163,7 @@
 	border-radius: 100%;
 	text-align: center;
 	margin-bottom: 40px;
-	color: #1da4dd;
+	color: red;
 	font-size: 57px;
 	line-height: 148px;
 	vertical-align: middle;
@@ -182,7 +182,7 @@
     -moz-transform: scale(1.05,1.07);
     -moz-transition-timing-function: ease-out;
     -moz-transition-duration: 250ms;
-	background-color: #1da4dd;
+	background-color: red;
 	color: #fff;
 	
 }
@@ -221,7 +221,7 @@
 	float: left;
 	width: 100%;
 	padding: 90px 0px 90px 0px;
-	background: #1a94c7 url(../images/para-bg1.png) repeat-y center -65px;
+	background: black url(../images/para-bg1.png) repeat-y center -65px;
 }
 
 /* services section */
@@ -238,7 +238,7 @@
 	border-radius: 2px;
 }
 .section3 .one_fourth:hover, .section3 .one_fourth.active {
-	background-color: #1da4dd;
+	background-color: red;
 	-webkit-transition:all .3s ease-in-out;
 	transition:all .3s ease-in-out
 }
@@ -246,7 +246,7 @@
 	color: #fff;
 }
 .section3 strong {
-	color: #1da4dd;
+	color: red;
 	font-size: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -274,7 +274,7 @@
 }
 .peosec strong {
 	float: left;
-	color: #1da4dd;
+	color: red;
 	font-size: 30px;
 	font-weight: normal;
 	margin-top: 93px;
@@ -349,17 +349,17 @@
 }
 .section4 .packagesinfo li.planbut a:hover {
 	color: #fff;
-	background-color: #1da4dd;
+	background-color: red;
 }
 .section4 .packagesinfo ul.active li.planbut a {
 	color: #fff;
-	background-color: #1da4dd;
+	background-color: red;
 }
 .section4 .packagesinfo ul.active li.title h4 {
-	color: #1da4dd;
+	color: red;
 }
 .section4 .packagesinfo ul.active li.title h2 {
-	color: #1da4dd;
+	color: red;
 }
 .section4 .packagesinfo ul.active li.title {
 	border-top-right-radius: 0px;
@@ -368,7 +368,7 @@
 .section4 .packagesinfo ul.active li.mostp {
 	color: #fff;
 	padding: 5px 0px;
-	background-color: #1da4dd;
+	background-color: red;
 	border-top-right-radius: 4px;
 	border-top-left-radius: 4px;
 }
@@ -454,7 +454,7 @@
 .parallax_sec3 i {
 	width: 106px;
 	height: 106px;
-	background: #1da4dd url(../images/site-img5.png) no-repeat center top;
+	background: red url(../images/site-img5.png) no-repeat center top;
 	color: #fff;
 	font-size: 35px;
 	line-height: 106px;
@@ -498,7 +498,7 @@
 .section5 .one_third a {
 	color: #727272;
 	font-size: 13px;
-	background-color: #1c88b5;
+	background-color: red;
 
 	padding: 5px 13px;
 }
@@ -520,11 +520,11 @@
 .punchtext h3 {
 	float: left;
 	margin-top: 10px;
-	color: #1da4dd;
+	color: red;
 }
 .punchtext a {
 	
-	color: #1da4dd;
+	color: red;
 	font-size: 26px;
 	padding: 3px 80px;
 

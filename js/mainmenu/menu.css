@@ -187,7 +187,7 @@
 .nav-collapse a:active,
 .nav-collapse .active a {
 /*  background: #b73214;*/
-  color: #1da4dd;
+  color: red;
 }
 
 .nav-collapse a i {
@@ -199,7 +199,8 @@
 
 @media screen and (min-width: 50em) {
   .nav-collapse a {
-    padding: 1.8em 1.0em;
+    font-size:17px;
+    padding: 1.2em 0.5em;
     text-align: center;
     border-top: 0;
     float: left;
