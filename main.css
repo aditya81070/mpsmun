@@ -4,6 +4,9 @@
 	padding:0;
 	margin:0;
 }
+.br{
+	display:none;
+}
 .mob_font{
 	text-shadow: 3px 3px black;
 }
@@ -57,7 +60,7 @@ p{
 	}
 
 	.mob_font{
-		font-size:15px;
+		font-size:21px;
 		text-shadow: 1px 1px black;
 	}
 	.wrap{
@@ -70,7 +73,13 @@ p{
 		margin:200px auto 0px auto;
 
 	}
+.br{
+	display:inline-block;
 
+}
+.nline
+{ text-align: center;
+}
 	.type-wrap{
 		padding:10px;
 		margin:50px auto;
