@@ -23,6 +23,9 @@ p{
 	margin:0 0 20px;
 	text-align: center;
 }
+.nline
+{ padding-left:0px;
+}
 
 .wrap{
 	font-family: "Ubuntu", sans-serif;
@@ -70,7 +73,7 @@ p{
 		letter-spacing:-1px;
 		max-width: 750px;
 		height: 150px;
-		margin:200px auto 0px auto;
+		margin:190px auto 0px auto;
 
 	}
 .br{
@@ -78,7 +81,7 @@ p{
 
 }
 .nline
-{ text-align: center;
+{ padding-left:100px;
 }
 	.type-wrap{
 		padding:10px;
