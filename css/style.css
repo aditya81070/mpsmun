@@ -48,6 +48,15 @@
 	margin-top:10px;
 
 }
+.mob_logo
+{
+	font-size:30px;
+}
+.mob_tlogo
+{
+	font-size:20px;
+	padding-left:10px;
+}
 
 /*------------------*/
 /*	SITE STRUCTURE
@@ -622,4 +631,27 @@ a.glink:hover {
     text-indent:-9999px;
     background: url(../images/scroll-top-arrow.png) no-repeat left top;
 	z-index: 999;
+}
+
+@media only screen and (max-width: 80em) {
+
+
+	.mob_logo{
+		font-size:19px;
+	}
+
+
+	.logo img {
+		float: left;
+		margin-left: 27px;
+		margin-top:10px;
+		margin-bottom:10px;
+		width:66px;
+	}
+ 	.mob_tlogo
+	{
+		font-size:12px;
+		padding-left:5px;
+	}
+
 }
