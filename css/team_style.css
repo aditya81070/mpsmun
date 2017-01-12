@@ -2843,14 +2843,14 @@ ul.social li a{
 
 }
 
-@media only screen and (max-width: 80em) {
+@media only screen and (max-width: 40em) {
 
     .grid figure img {
         position: relative;
         display: block;
         width: 100%;
-        height:450px;
-        opacity: 0.8;
+        height:350px;
+
     }
 
 
