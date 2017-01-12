@@ -71,6 +71,7 @@ h2 {
 	margin-bottom: 25px;
 	font-style: normal;
 	font-weight: 300;
+
 }
 h3 { 
 	font-size: 27px; 
@@ -78,9 +79,11 @@ h3 {
 	margin-bottom: 20px;
 	font-style: normal;
 	font-weight: 400;
+
 }
 h3.white {
 	color: #fff;
+
 }
 h4 { 
 	font-size: 22px; 
@@ -88,6 +91,7 @@ h4 {
 	margin-bottom: 20px;
 	font-style: normal;
 	font-weight: 400;
+
 }
 h5 { 
 	font-size: 18px; 
@@ -95,12 +99,14 @@ h5 {
 	margin-bottom: 20px;
 	font-style: normal;
 	font-weight: 400;
+
 }
 h5 b {
 	float: left;
 	color: #999;
 	font-weight: 400;
 	margin-left: 63px;
+	text-align: justify;
 }
 h5 b.white {
 	color: #fff;
@@ -126,6 +132,7 @@ p {
 	font: 14px 'Open Sans', sans-serif;
 	font-weight: normal;
 	line-height: 23px;
+	text-align: justify;
 }
 
 ul, ol {
@@ -376,4 +383,14 @@ height: 0;
 	{
 		font-size:30px;
 	}
+}
+@media only screen and (max-width: 80em) {
+	h2 {
+		font-size: 30px;
+		line-height: 45px;
+		margin-bottom: 25px;
+		font-style: normal;
+
+	}
+
 }

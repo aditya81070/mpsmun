@@ -238,13 +238,13 @@ h1 {
     font-size: 2.2em;
 }
 .main-row { 
-    margin: 1.5em auto;
+    /*margin:0 0 0 -30px;*/
 }
 .main-row p {
     font-size: 0.87em; 
 }
 .w3ls-img img {
-    padding: 1.8em;
+    /*padding: 1.8em;*/
 }
 }
 @media(max-width:600px){
@@ -278,6 +278,7 @@ h1 {
 }
 @media(max-width:414px){
 .main {
+
     padding: 1.5em 0 0;
 }
 h1 {
@@ -287,18 +288,20 @@ h1 {
     font-size: 0.8em;
 }
 .main-row {
-    width: 89%;
-    margin: 1em auto;
+    width: 100%;
+    text-align: justify;
+    /*margin: 1em auto;*/
 }
 .w3ls-img img {
     width: 13%;
     padding: 1.3em;
 }
 .timer {
-    font-size: 2.2em;
+    font-size: 2em;
+
 }
 .text {
-    font-size: 0.9em;
+    font-size: 0.6em;
 }
 .wthree-sub {
     margin-top: 2em;
