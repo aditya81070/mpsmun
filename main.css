@@ -37,6 +37,24 @@ p{
 	margin:180px auto 40px auto;
 
 }
+.logo_un{
+	width:100px;
+	height:90px;
+
+}
+
+.logo_hs{
+	width:100px;
+	height:100px;
+
+}
+
+.logo_j{
+	width:100px;
+	height:100px;
+	float:right;
+
+}
 
 .type-wrap{
 	padding:10px;
@@ -81,7 +99,7 @@ p{
 
 }
 .nline
-{ padding-left:80px;
+{ padding-left:70px;
 }
 	.type-wrap{
 		padding:10px;
@@ -91,6 +109,23 @@ p{
         background:#f0f0f0;
         border-radius:5px;
         border:#CCC 1px solid; */
+	}
+
+	.logo_un{
+		width:90px;
+		height:90px;
+
+	}
+	.logo_hs{
+		width:100px;
+		height:100px;
+
+	}
+	.logo_j{
+		width:100px;
+		height:100px;
+
+
 	}
 
 }
