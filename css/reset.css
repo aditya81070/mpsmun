@@ -370,3 +370,10 @@ height: 0;
 	width: 75%;
 	margin: 0 auto;
 }
+
+@media only screen and (max-width:70em){
+	h1
+	{
+		font-size:30px;
+	}
+}
