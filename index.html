@@ -17,7 +17,7 @@
                 typeSpeed: 30,
                 backDelay: 500,
                 loop: true,
-                contentType: 'html', // or text
+                contentType: 'html', 
                 // defaults to false for infinite loop
                 loopCount: false,
                 callback: function(){ foo(); },
@@ -104,8 +104,8 @@
             border:3px white solid ;
         text-shadow: 2px 2px 2px black ;
             padding: 20px 20px 20px 20px;
-
-
+        float:left;
+        margin:-20px 0px 0px 420px;
 
         }
         .but:hover{
@@ -113,7 +113,70 @@
             color:black;
 
         }
+ .butR
+        {
 
+            background:transparent;
+            font-family:Helvetica;
+            font-weight:bold;
+            color:white;
+            border:3px white solid ;
+        text-shadow: 2px 2px 2px black ;
+            padding: 20px 20px 20px 20px;
+    float:right;
+     margin:-20px 420px 0px 0px;
+
+        }
+        .butR:hover{
+            background-color: white ;
+            color:black;
+
+        }
+
+         @media only screen and (max-width:400px){
+             .but
+             {
+
+                 background:transparent;
+
+                 font-family:Helvetica;
+                 font-weight:bold;
+                 color:white;
+                 border:3px white solid ;
+                 text-shadow: 2px 2px 2px black ;
+                 padding: 10px 10px 10px 10px;
+                 float:left;
+                 margin:-20px 0px 0px 10px;
+
+             }
+             .but:hover{
+                 background-color: white ;
+                 color:black;
+
+             }
+
+             .butR
+             {
+
+                 background:transparent;
+                 font-family:Helvetica;
+                 font-weight:bold;
+                 color:white;
+                 border:3px white solid ;
+                 text-shadow: 2px 2px 2px black ;
+                 padding: 10px 10px 10px 10px;
+                 float:right;
+                 margin:-20px 20px 0px 0px;
+
+             }
+             .butR:hover{
+                 background-color: white ;
+                 color:black;
+
+             }
+
+
+         }
 
     </style>
 </head>
@@ -126,7 +189,7 @@
 
                 <img src="images/1.png" class="logo_un" alt="">
                 <img src="images/index.png" class="logo_hs" alt="">
-                <img src="images/index.png"  class="logo_j" alt="">
+
 
 
 
@@ -160,7 +223,8 @@
             <!--<a href="main.html" ><button  class="but" style="align:center;" >EXPLORE NOW</button></a>-->
         <!--</div>-->
     </div>
-    <a href="main.html" style="text-decoration:none" class="button light"><p   style="text-align:center;"><b class="but">EXPLORE NOW</b></p></a>
+    <a href="main.html" style="text-decoration:none" class="button light"><p><b class="but">EXPLORE NOW</b></p></a>
+    <a href="main.html#apply" style="text-decoration:none" class="button light" ><p><b class="butR">REGISTER</b></p></a>
 
 
 
