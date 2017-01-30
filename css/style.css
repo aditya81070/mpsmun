@@ -27,7 +27,16 @@
 	+ google map
 	
 --------------------------------------------------------*/
+.arpit{
+	margin-left:100px;
+	color:black;
+	font-family:lato;
+	text-decoration:none;
 
+}
+.br{
+	display:none;
+}
 
 .logo {
 	float: left;
@@ -72,6 +81,24 @@
 	font-size:13px;
 	width:100%;
 	height:600px;
+
+}
+.click{
+
+		font-family:lato;
+	text-decoration:none;
+	border:1px white solid;
+	padding:5px;
+	color:white;
+	margin-left:100px;
+	background-color:transparent;
+}.click:hover{
+	background: white;
+	font-family:lato;
+	text-decoration:none;
+	border:1px white solid;
+	padding:5px;
+	color:black;
 
 }
 /*------------------*/
@@ -540,17 +567,19 @@
 .punchtext {
 	float: left;
 	width: 100%;
-	padding: 60px 0px 50px 0px;
+	padding: 20px 0px 20px 0px;
 }
 .punchtext h3 {
 	float: left;
 	margin-top: 10px;
+	margin-left: 100px;
 	color: red;
 }
 .punchtext a {
 	
-	color: red;
+	color: white;
 	font-size: 26px;
+	text-decoration: none;
 	/*padding: 3px 80px;*/
 
 	border-radius: 5px;
@@ -689,5 +718,38 @@ a.glink:hover {
 
 		width:350px;
 		height:500px;
+	}
+	.punchtext h3{
+
+		margin-left:0px;
+	}
+	.br{
+		display:inline-block;
+
+	}
+	.click{
+
+		font-family:lato;
+		text-decoration:none;
+		border:1px white solid;
+		padding:5px;
+		color:white;
+		margin-left:0px;
+		background-color:transparent;
+	}.click:hover{
+		 background: white;
+		 font-family:lato;
+		 text-decoration:none;
+		 border:1px white solid;
+		 padding:5px;
+		 color:black;
+
+	 }
+	.arpit{
+		margin-left:-70px;
+		color:black;
+		font-family:lato;
+		text-decoration:none;
+
 	}
 }
