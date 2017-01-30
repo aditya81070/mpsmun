@@ -38,14 +38,7 @@ body a:hover,body a{
 	text-decoration:none;
 }
 /*-- banner --*/
- .banner{
-	 background:url(../images/pic3.jpg) no-repeat 0px 0px;
-	 background-size:100% 100%;
-	 -webkit-background-size:100% 100%;
-	 -moz-background-size:100% 100%;
-	 -o-background-size:100% 100%;
-	 -ms-background-size:100% 100%;
- }
+
 .banner-info {
     background: url(../images/dott.png)repeat 0px 0px;
     height:500px; /* height of  home pic  */
@@ -252,11 +245,11 @@ body a:hover,body a{
 }
   .main-example .count {
     font-size:1.3em;
-    line-height: 50px;
+    line-height: 70px;
   }
   .main-example .label {
-    font-size: 0.8em;
-    top: 42px;
+    font-size: 0.9em;
+    top: 65px;
   }
 }
 /*-- //count-down --*/
@@ -431,8 +424,8 @@ body a:hover,body a{
 }
 @media (max-width:70em){
     .banner-info {
-        margin-left:0px;
-        width:50%;
+        margin-left:10px;
+        width:100%;
         padding-top:0em ;
     }
 }

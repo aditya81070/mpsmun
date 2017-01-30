@@ -39,20 +39,13 @@ p{
 }
 .logo_un{
 	width:100px;
-	height:90px;
+	height:100px;
 
 }
 
 .logo_hs{
 	width:100px;
 	height:100px;
-
-}
-
-.logo_j{
-	width:100px;
-	height:100px;
-	float:right;
 
 }
 
@@ -112,19 +105,13 @@ p{
 	}
 
 	.logo_un{
-		width:90px;
-		height:90px;
+		width:100px;
+		height:100px;
 
 	}
 	.logo_hs{
 		width:100px;
 		height:100px;
-
-	}
-	.logo_j{
-		width:100px;
-		height:100px;
-
 
 	}
 
