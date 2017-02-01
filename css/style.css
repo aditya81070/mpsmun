@@ -678,8 +678,7 @@ a.glink:hover {
     background: url(../images/scroll-top-arrow.png) no-repeat left top;
 	z-index: 999;
 }
-
-@media only screen and (max-width: 80em) {
+@media only screen and (max-width: 40em) {
 
 
 	.mob_logo{
@@ -757,4 +756,5 @@ a.glink:hover {
 
 		margin-left:0px;
 	}
+
 }

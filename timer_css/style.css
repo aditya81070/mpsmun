@@ -422,7 +422,17 @@ body a:hover,body a{
 		padding-top:0em ;
 	}
 }
-@media (max-width:70em){
+@media (max-width:1200px){
+	.banner-info {
+        margin-left:270px;
+        /*margin-top: 10px;*/
+		padding-top:0em ;
+	}
+}
+
+
+
+@media (max-width:40em){
     .banner-info {
         margin-left:10px;
         width:100%;

@@ -2844,7 +2844,7 @@ ul.social li a{
 
 }
 
-@media only screen and (max-width: 70em) {
+@media only screen and (max-width: 40em) {
 
     .grid figure img {
         position: relative;
