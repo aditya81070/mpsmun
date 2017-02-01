@@ -27,6 +27,7 @@
 	+ google map
 	
 --------------------------------------------------------*/
+
 .arpit{
 	margin-left:100px;
 	color:black;
@@ -85,19 +86,19 @@
 }
 .click{
 
-		font-family:lato;
+	font-family:lato;
 	text-decoration:none;
 	border:1px white solid;
-	padding:5px;
+	padding:10px 20px 10px 20px;
 	color:white;
-	margin-left:100px;
+	margin-left:200px;
 	background-color:transparent;
 }.click:hover{
 	background: white;
 	font-family:lato;
 	text-decoration:none;
 	border:1px white solid;
-	padding:5px;
+	 padding:10px 20px 10px 20px;
 	color:black;
 
 }
@@ -732,7 +733,7 @@ a.glink:hover {
 		font-family:lato;
 		text-decoration:none;
 		border:1px white solid;
-		padding:5px;
+		padding:10px 20px 10px 20px ;
 		color:white;
 		margin-left:0px;
 		background-color:transparent;
@@ -741,7 +742,7 @@ a.glink:hover {
 		 font-family:lato;
 		 text-decoration:none;
 		 border:1px white solid;
-		 padding:5px;
+			 padding:10px 20px 10px 20px;
 		 color:black;
 
 	 }
@@ -751,5 +752,9 @@ a.glink:hover {
 		font-family:lato;
 		text-decoration:none;
 
+	}
+	.left{
+
+		margin-left:0px;
 	}
 }
